@@ -1,4 +1,4 @@
-# Urban-healthy-lifestyle-analysis.
+# Urban-healthy-lifestyle-analysis
 
 
 THE DATASET:

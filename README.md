@@ -2,10 +2,10 @@
 
 
 THE DATASET:
-Ranking of 44 cities worldwide (2021) from most to least healthy, based on 12 variables related to physical and mental health, living cost and quality, and environmental factors (source: Kaggle).
+Ranking of 44 cities worldwide (2021) from most to least healthy, based on different variables related to physical and mental health, living cost and quality, and environmental factors (source: Kaggle).
 
 
-THE SCOPE:
+THE AIM:
 To predict happiness levels, identify homogeneous lifestyle groups, and determine key variables influencing urban well-being.
 
 

@@ -6,7 +6,7 @@ Ranking of 44 cities worldwide (2021) from most to least healthy, based on diffe
 
 
 THE AIM:
-To predict happiness levels, identify homogeneous lifestyle groups, and determine key variables influencing urban well-being.
+Identify homogeneous lifestyle groups and determine key variables influencing urban well-being.
 
 
 METHODOLOGIES USED:
